@@ -1,10 +1,10 @@
 # DEPENDENCIES
 
-If is used from windows download Git BASH for having all BASH dependencies needed. From linux it is just needed BASH and AWK
+If it is used from windows download Git BASH for having all BASH dependencies needed. From linux it is just needed BASH and AWK
 
 # USE OF BSH FILE
 
-Exceute de conf.sh passing one argumment wich is the path where the file will be located:
+Execute de conf.sh passing one argument wich is the path where the file will be located:
 
 bash con.sh [LINUX/PATH/TO/THE/DIR]
 
@@ -16,6 +16,7 @@ The patters must follow the specifications of the AWK command so the special cha
 original  ||  new
 
 "_##car##\\)"@"_##car)"
+
 "_##car##\\]"@"_##car]"
 
 line 1: the patters to change is "_##car##)" to "_##car)"
